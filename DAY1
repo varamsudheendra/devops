@@ -1,0 +1,43 @@
+DAY 1 OF ABHISHEK'S CLASS......
+
+
+1. What is DevOps? 🤔
+
+In simple terms, DevOps is a culture or practice that an organization adopts to improve its ability to deliver applications and services quickly and efficiently. It's not just a single process but a combination of various practices that aim to streamline and automate the software development and delivery pipeline. 🚀
+
+Key Aspects of DevOps:
+- Automation: 🤖 Automating repetitive tasks to reduce manual effort and increase efficiency.
+- Quality: ✅ Ensuring high standards of quality in the application through rigorous testing and validation.
+- Monitoring: 📈 Continuously monitoring the application and infrastructure to detect and address issues promptly.
+- Continuous Testing: 🔍 Implementing automated tests at every stage of the development lifecycle to ensure that the application is always in a deployable state.
+
+2. Why DevOps? ❓
+
+Understanding why DevOps is essential is crucial for any DevOps job interview. DevOps has evolved to address the inefficiencies of traditional software development and delivery processes.
+
+Traditional Approach:
+- Multiple Teams: 👥 Different teams for development, testing, and operations.
+- Manual Processes: 🛠️ Manual steps involved in deploying and testing applications.
+- Slow Delivery: 🐢 The entire process from development to production was slow and error-prone, often taking weeks or even months.
+
+DevOps Approach:
+- Single Team: 👩‍💻👨‍💻 Developers, testers, and operations work together as a single team.
+- Automation: 🤖 Automated tools and processes replace manual efforts.
+- Fast Delivery: ⚡ Applications are delivered quickly and reliably, often within hours or days.
+
+3. How to Introduce Yourself for a DevOps Engineering Position? 💼
+
+When introducing yourself in a DevOps interview, it's essential to highlight your understanding of DevOps concepts and your practical experience with relevant tools and processes.
+
+Example Introduction:
+"Hello, my name is Sudheendra. I have a strong background in software development and operations, with a focus on implementing DevOps practices to improve the efficiency and reliability of application delivery. I have hands-on experience with various DevOps tools like Jenkins for CI/CD, Docker for containerization, Kubernetes for orchestration, and monitoring tools like Prometheus and Grafana. I am passionate about automation and continuous improvement, and I am always eager to learn and adopt new technologies that can enhance the delivery process."
+
+4. Day-to-Day Activities of a DevOps Engineer: 📅
+
+Understanding your day-to-day activities as a DevOps engineer is crucial for interview preparation. Here are some common tasks:
+
+- Continuous Integration/Continuous Deployment (CI/CD): 🔄 Setting up and maintaining CI/CD pipelines to automate the build, test, and deployment processes.
+- Infrastructure as Code (IaC): 🛠️ Using tools like Terraform or CloudFormation to manage infrastructure.
+- Monitoring and Logging: 📊 Implementing monitoring solutions to track the performance and health of applications and infrastructure.
+- Collaboration: 🤝 Working closely with development and operations teams to ensure smooth integration and deployment of code changes.
+- Incident Management: 🚨 Responding to and resolving production issues promptly to minimize downtime.
