@@ -1,0 +1,95 @@
+DAY 2 OF ABHISHEK'S CLASS
+
+
+1.Software Development Life Cycle (SDLC) 🛠️
+
+Planning & Requirement Analysis 📋🧩
+
+- Gathering requirements from stakeholders and customers. 🗣️
+- Defining project scope, resources, and timelines. 📅
+
+Defining Requirements 📝🔍
+
+- Documenting detailed specifications and functionalities. 🗒️
+- Creating Software Requirement Specification (SRS) documents. 📑
+
+Designing 🎨🖥️
+
+- High-Level Design (HLD): Overview of system architecture, technologies, and database design. 🏗️
+- Low-Level Design (LLD): Detailed module design, including specific functions and algorithms. 🧩
+
+Building/Developing 💻👨‍💻
+
+- Developers write the application code based on design documents. 📜
+- Code is pushed to a centralized source code repository (e.g., Git). 📂
+
+Testing 🧪🔍
+
+- Quality Assurance (QA) team tests the application to identify and fix bugs. 🐞
+- Ensures the application meets the requirements and functions correctly. ✅
+
+Deployment 🚀🌐
+
+- Application is deployed to production environments. 🏭
+- Ensuring the application is accessible and functional for end-users. 👥
+
+2.DevOps Engineer’s Role in SDLC 🧑‍💻🔄
+
+As a DevOps engineer, your main goal is to automate and streamline the processes involved in building, testing, and deploying software. Let’s delve into these phases in detail:
+
+1. Building Phase (Developing) 🛠️
+
+- Continuous Integration (CI): Automating the process of integrating code changes from multiple developers into a shared repository several times a day. 🔄
+- Tools: Jenkins, GitLab CI, CircleCI. 🛠️
+- Practices:
+  - Automated build scripts to compile code. 📝
+  - Running automated tests to verify the code quality. ✅
+
+2. Testing Phase 🧪
+
+- Continuous Testing: Automated testing of the application in different environments to ensure it meets the required standards. 🌍
+- Tools: Selenium, JUnit, TestNG. 🛠️
+- Practices:
+  - Integration of testing scripts with CI tools. 🔄
+  - Running tests automatically after each code integration. 🚀
+
+3. Deployment Phase 🚀
+
+- Continuous Deployment (CD): Automatically deploying every change that passes the tests to production. 🌐
+- Continuous Delivery: Ensuring that the code is always in a deployable state. 🟢
+- Tools: Docker, Kubernetes, Ansible, Terraform. 🛠️
+- Practices:
+  - Automating deployment scripts. 📝
+  - Implementing Infrastructure as Code (IaC) for consistent and reproducible environments. 🏗️
+
+3.How DevOps Improves Efficiency ⚡️
+
+- Automation: Reduces manual intervention, thereby minimizing human errors and increasing speed. 🤖
+- Scalability: Ensures that systems can handle increased loads by automating scaling processes. 📈
+- Reliability: Automated testing and monitoring ensure that the code is always in a deployable state, reducing the risk of failures. 🔒
+- Collaboration: Encourages collaboration between development and operations teams, leading to better communication and faster issue resolution. 🤝
+
+4.Practical Example: Automating the SDLC for Example.com 🌐
+
+Let’s take our hypothetical e-commerce site, example.com, and outline how a DevOps engineer would enhance the SDLC:
+
+Automated Builds and Integration 🔄
+
+- Developers push code to Git. 📂
+- CI tools like Jenkins automatically build the application and run unit tests. 🛠️
+
+Automated Testing 🧪
+
+- After a successful build, automated tests are triggered. 🚦
+- Tools like Selenium perform functional and regression tests to ensure everything works as expected. ✅
+
+Automated Deployment 🚀
+
+- Once tests pass, the deployment scripts are executed. 📜
+- Tools like Ansible and Terraform provision and configure servers. 🏗️
+- Docker containers are deployed using Kubernetes for scalable and reliable deployment. 🐳
+
+Monitoring and Feedback 📊🔍
+
+- Continuous monitoring of the deployed application using tools like Prometheus and Grafana. 📈
+- Automated alerts for any issues or anomalies detected, allowing for quick response and resolution. 🚨
